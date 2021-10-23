@@ -25,17 +25,17 @@ I am a New Graduate dabbling with Web3
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: shanshiva@outlook.com
 
-### Recent Projects :hearts:	
-#### 1. Check Out Wave Portal At [WAVE PORTAL](https://waveportal-baseline-student.shivashanmugana.repl.co/)
+## Recent Projects :hearts:	
+### 1. Check Out Wave Portal At [WAVE PORTAL](https://waveportal-baseline-student.shivashanmugana.repl.co/)
 
-#### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/wave-portal)
+### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/wave-portal)
 
 
 ![image](https://user-images.githubusercontent.com/30176438/138548209-975b149e-ae52-4fb7-89d4-7770bf55508f.png)
 
-#### 2. Check Out PyChain At [GitHub](https://github.com/ShivaShanmuganathan/PyChain)
-#### PyChain is a Python Based Blockchain that I built to better understand how a Blockchain works.
-#### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/PyChain)
+### 2. Check Out PyChain At [GitHub](https://github.com/ShivaShanmuganathan/PyChain)
+### PyChain is a Python Based Blockchain that I built to better understand how a Blockchain works.
+### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/PyChain)
 <br>
 
 
@@ -46,9 +46,9 @@ I am a New Graduate dabbling with Web3
 
 <img src="https://user-images.githubusercontent.com/30176438/132985081-43ab9138-c8b1-49ab-a82b-29c70d2e9c19.png" width="750" height="400">
 
-#### 3. Check Out 🔐PyCryption At [GitHub](https://github.com/ShivaShanmuganathan/PyCryption)
-#### PyCryption is a Dockerized Python Encryptor that I built to preform Encryption & Decryption on files.
-#### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/PyCryption)
+### 3. Check Out 🔐PyCryption At [GitHub](https://github.com/ShivaShanmuganathan/PyCryption)
+### PyCryption is a Dockerized Python Encryptor that I built to preform Encryption & Decryption on files.
+### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/PyCryption)
 
 ![image](https://user-images.githubusercontent.com/30176438/132206323-072bfead-e86c-4acc-8803-b8ee904c33e8.png)
 
