@@ -29,7 +29,7 @@ I am a New Graduate dabbling with Web3
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: shanshiva@outlook.com
 
-## Recent Projects :hearts:	
+## Recent Projects :rocket:	
 ### 1. Check Out NFT Mini Game At [NFT GAME](https://nftbattle.netlify.app/)
 
 ### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/nft-game-frontend)
