@@ -32,37 +32,43 @@ I am a New Graduate dabbling with Web3
 ## Recent Projects :rocket:	
 ### 1. Check Out NFT Mini Game At [NFT GAME](https://nftbattle.netlify.app/)
 
-### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/nft-game-frontend)
-### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project)
+### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project/tree/master/frontend)
+### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project/tree/master/backend)
 
 ![nft_game](https://user-images.githubusercontent.com/30176438/142196502-187319fa-0dfd-4a3a-b24c-e5ecd3210693.JPG)
 
-### 2. Yield Farm [DeFi Dapp](https://yieldfarm.netlify.app/)
+### 2. NFT Rental Marketplace [NFT Marketplace](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
+
+### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
+
+![image](https://user-images.githubusercontent.com/30176438/154267886-8165e3df-67c8-41f1-b4f6-fdee7e40761c.png)
+
+### 3. Yield Farm [DeFi Dapp](https://yieldfarm.netlify.app/)
 
 ### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm)
 
 ![defi_dapp](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm/raw/main/yield2.jpg)
 
-### 3. Dutch Auction Factory [Reverse Auction Contract](https://github.com/ShivaShanmuganathan/DutchAuction)
+### 4. Dutch Auction ERC20 Marketplace [Reverse Auction Contract](https://github.com/ShivaShanmuganathan/DutchAuction)
 
 ### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/DutchAuction)
 
 ![auction](https://shiva-blockchain-portfolio.netlify.app/images/auction.png)
 
-### 4. Aave Flashloan [FlashLoan](https://github.com/ShivaShanmuganathan/aave-flashloan)
+### 5. Aave Flashloan [FlashLoan](https://github.com/ShivaShanmuganathan/aave-flashloan)
 
 ### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/aave-flashloan)
 
 ![flashloan](https://shiva-blockchain-portfolio.netlify.app/images/flashloan.gif)
 
-### 5. Check Out 👋Wave Portal At [WAVE PORTAL](https://waveportal-baseline-student.shivashanmugana.repl.co/)
+### 6. Check Out 👋Wave Portal At [WAVE PORTAL](https://waveportal-baseline-student.shivashanmugana.repl.co/)
 
 ### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/wave-portal)
 
 
 ![image](https://user-images.githubusercontent.com/30176438/138548209-975b149e-ae52-4fb7-89d4-7770bf55508f.png)
 
-### 6. Check Out 🐍PyChain At [GitHub](https://github.com/ShivaShanmuganathan/PyChain)
+### 7. Check Out 🐍PyChain At [GitHub](https://github.com/ShivaShanmuganathan/PyChain)
 ### PyChain is a Python Based Blockchain that I built to better understand how a Blockchain works.
 ### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/PyChain)
 <br>
@@ -75,7 +81,7 @@ I am a New Graduate dabbling with Web3
 
 <img src="https://user-images.githubusercontent.com/30176438/132985081-43ab9138-c8b1-49ab-a82b-29c70d2e9c19.png" width="750" height="400">
 
-### 7. Check Out 🔐PyCryption At [GitHub](https://github.com/ShivaShanmuganathan/PyCryption)
+### 8. Check Out 🔐PyCryption At [GitHub](https://github.com/ShivaShanmuganathan/PyCryption)
 ### PyCryption is a Dockerized Python Encryptor that I built to preform Encryption & Decryption on files.
 ### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/PyCryption)
 
