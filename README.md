@@ -26,7 +26,7 @@ I am a New Graduate dabbling with Web3
 
 
 #### WORK :briefcase:	
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume](https://drive.google.com/file/d/1e0F8y5kx5uFBclnnywQg5DmqMYRH5hil/view?usp=sharing)
 - :email: shanshiva@outlook.com
 
 ## Recent Projects :rocket:	
