@@ -41,7 +41,9 @@ I am a New Graduate dabbling with Web3
 
 ### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
 
-![image](https://user-images.githubusercontent.com/30176438/154267886-8165e3df-67c8-41f1-b4f6-fdee7e40761c.png)
+![image](https://user-images.githubusercontent.com/30176438/154788775-2f3e4ea9-fdd4-4596-96c8-c7680280dcb0.png)
+![image](https://user-images.githubusercontent.com/30176438/154788779-3b67f000-ba69-4876-9919-a02f58f43b19.png)
+
 
 ### 3. Yield Farm [DeFi Dapp](https://yieldfarm.netlify.app/)
 
