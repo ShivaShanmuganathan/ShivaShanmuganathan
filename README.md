@@ -30,14 +30,8 @@ I am a New Graduate dabbling with Web3
 - :email: shanshiva@outlook.com
 
 ## Recent Projects :rocket:	
-### 1. Check Out NFT Mini Game At [NFT GAME](https://nftbattle.netlify.app/)
 
-### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project/tree/master/frontend)
-### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project/tree/master/backend)
-
-![nft_game](https://user-images.githubusercontent.com/30176438/142196502-187319fa-0dfd-4a3a-b24c-e5ecd3210693.JPG)
-
-### 2. Check Out NFT Rental Marketplace At [NFT Rental Marketplace](https://nft-rental-marketplace.netlify.app/)
+### 1. Check Out NFT Rental Marketplace At [NFT Rental Marketplace](https://nft-rental-marketplace.netlify.app/)
 
 ### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/rental-marketplace-frontend)
 ### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
@@ -46,6 +40,12 @@ I am a New Graduate dabbling with Web3
 ![rental_poster1](https://user-images.githubusercontent.com/30176438/154859304-fdff81f6-490b-4674-b585-d115e89c0996.JPG)
 ![image](https://user-images.githubusercontent.com/30176438/154788779-3b67f000-ba69-4876-9919-a02f58f43b19.png)
 
+### 2. Check Out NFT Mini Game At [NFT GAME](https://nftbattle.netlify.app/)
+
+### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project/tree/master/frontend)
+### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project/tree/master/backend)
+
+![nft_game](https://user-images.githubusercontent.com/30176438/142196502-187319fa-0dfd-4a3a-b24c-e5ecd3210693.JPG)
 
 ### 3. Yield Farm [DeFi Dapp](https://yieldfarm.netlify.app/)
 
