@@ -37,8 +37,7 @@ I am a New Graduate dabbling with Web3
 ### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
 
 ![WebCapture2](https://user-images.githubusercontent.com/30176438/154859807-2bf34911-ed29-42d3-a8ba-57fe514f452a.jpeg)
-![rental_poster1](https://user-images.githubusercontent.com/30176438/154859304-fdff81f6-490b-4674-b585-d115e89c0996.JPG)
-![image](https://user-images.githubusercontent.com/30176438/154788779-3b67f000-ba69-4876-9919-a02f58f43b19.png)
+
 
 ### 2. Dynamic [NFT Mini Game](https://nftbattle.netlify.app/)
 
