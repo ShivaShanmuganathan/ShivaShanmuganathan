@@ -47,17 +47,19 @@ I am a New Graduate dabbling with Web3
 
 ![nft_game](https://user-images.githubusercontent.com/30176438/142196502-187319fa-0dfd-4a3a-b24c-e5ecd3210693.JPG)
 
-### 3. Yield Farm [DeFi Dapp](https://yieldfarm.netlify.app/)
+### 3. Full Stack [DAO Dapp EIP-1167: Minimal Proxy](http://fullstack-dao-dapp.vercel.app/)
+
+### Instructions & Full Stack Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/fullstack-dao-dapp)
+
+![DAO](https://user-images.githubusercontent.com/30176438/160229135-18c529b9-ff18-49db-ba89-a5f8c6772001.png)
+
+### 4. Yield Farm [DeFi Dapp](https://yieldfarm.netlify.app/)
 
 ### Instructions & Full Stack Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm)
 
 ![defi_dapp](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm/raw/main/yield2.jpg)
 
-### 4. Full Stack [DAO Dapp EIP-1167: Minimal Proxy](http://fullstack-dao-dapp.vercel.app/)
 
-### Instructions & Full Stack Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/fullstack-dao-dapp)
-
-![DAO](https://user-images.githubusercontent.com/30176438/160229135-18c529b9-ff18-49db-ba89-a5f8c6772001.png)
 
 ### 5. Dutch Auction ERC20 Marketplace [Reverse Auction Contract](https://github.com/ShivaShanmuganathan/DutchAuction)
 
