@@ -36,7 +36,7 @@ I am a New Graduate dabbling with Web3
 ### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/rental-marketplace-frontend)
 ### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
 
-![WebCapture2](https://user-images.githubusercontent.com/30176438/154859807-2bf34911-ed29-42d3-a8ba-57fe514f452a.jpeg)
+![rental-marketplace-screenshot](https://user-images.githubusercontent.com/30176438/160332907-c7f22001-f807-46a3-b999-be4a98895a12.png)
 
 
 ### 2. Dynamic [NFT Mini Game](https://nftbattle.netlify.app/)
@@ -57,7 +57,6 @@ I am a New Graduate dabbling with Web3
 ### Instructions & Full Stack Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm)
 
 ![defi_dapp](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm/raw/main/yield2.jpg)
-
 
 
 ### 5. Dutch Auction ERC20 Marketplace [Reverse Auction Contract](https://github.com/ShivaShanmuganathan/DutchAuction)
