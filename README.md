@@ -26,7 +26,7 @@ I am a New Graduate dabbling with Web3
 
 
 #### WORK :briefcase:	
-- :paperclip: [My Resume](https://drive.google.com/file/d/1e0F8y5kx5uFBclnnywQg5DmqMYRH5hil/view?usp=sharing)
+- :paperclip: [My Resume](https://drive.google.com/file/d/1qRM9fnrOn5wP-qY_ktK1yebi32iRAMEQ/view?usp=sharing)
 - :email: shanshiva@outlook.com
 
 ## Recent Projects :rocket:	
