@@ -32,20 +32,20 @@ I am a New Graduate dabbling with Web3
 
 ## Recent Projects :rocket:	
 
-### 1. Collateral Free [NFT Rental Marketplace](https://nft-rental-marketplace.netlify.app/)
+### 1. Fullstack Dynamic NFT Mini Game🎮💎[Using Diamond Standard](https://diamond-dapp.vercel.app/)
+
+### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game/tree/main/frontend)
+### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game/tree/main/backend)
+
+![Homepage-1](https://user-images.githubusercontent.com/30176438/165446869-bc8508dc-01bb-4d0b-9472-ed8b388a4e40.JPG)
+
+### 2. Collateral Free [NFT Rental Marketplace](https://nft-rental-marketplace.netlify.app/)
 
 ### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/rental-marketplace-frontend)
 ### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
 
 ![rental-marketplace-screenshot](https://user-images.githubusercontent.com/30176438/160332907-c7f22001-f807-46a3-b999-be4a98895a12.png)
 
-
-### 2. Dynamic [NFT Mini Game](https://nftbattle.netlify.app/)
-
-### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project/tree/master/frontend)
-### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project/tree/master/backend)
-
-![nft_game](https://user-images.githubusercontent.com/30176438/142196502-187319fa-0dfd-4a3a-b24c-e5ecd3210693.JPG)
 
 ### 3. Full Stack [DAO Dapp EIP-1167: Minimal Proxy](http://fullstack-dao-dapp.vercel.app/)
 
