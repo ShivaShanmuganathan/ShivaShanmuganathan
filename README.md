@@ -25,8 +25,8 @@ I am a New Graduate dabbling with Web3
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShanmuganathan)](https://github.com/ShivaShanmuganathan/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShanmuganathan&hide=jupyter%20notebook,html,css&layout=compact)](https://github.com/ShivaShanmuganathan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShanmuganathan&hide=jupyter%20notebook,html,css&layout=compact&theme=gotham)](https://github.com/ShivaShanmuganathan/github-readme-stats)
 
 #### WORK :briefcase:	
 - :paperclip: [My Resume](https://drive.google.com/file/d/1ZkCRhh8TecHg01Ccqx2AHEz7-0GhWZsY/view?usp=sharing)
