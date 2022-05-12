@@ -39,7 +39,8 @@ I am a New Graduate dabbling with Web3
 ### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game/tree/main/frontend)
 ### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game/tree/main/backend)
 
-![Homepage-1](https://user-images.githubusercontent.com/30176438/165446869-bc8508dc-01bb-4d0b-9472-ed8b388a4e40.JPG)
+![diamond-project](https://user-images.githubusercontent.com/30176438/168122891-5215481e-670c-4bd5-be10-1955768121f4.JPG)
+
 
 ### 2. Collateral Free [NFT Rental Marketplace](https://nft-rental-marketplace.netlify.app/)
 
