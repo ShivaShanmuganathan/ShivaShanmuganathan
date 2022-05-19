@@ -29,7 +29,7 @@ I am a New Graduate dabbling with Web3
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShanmuganathan&hide=jupyter%20notebook,html,css&layout=compact&theme=gotham)](https://github.com/ShivaShanmuganathan/github-readme-stats)
 
 #### WORK :briefcase:	
-- :paperclip: [My Resume](https://drive.google.com/file/d/1ZkCRhh8TecHg01Ccqx2AHEz7-0GhWZsY/view?usp=sharing)
+- :paperclip: [My Resume](https://drive.google.com/file/d/1kknmh6WKoV3OVh5YC67S7QWvqA4jd3Oj/view?usp=sharing)
 - :email: shanshiva@outlook.com
 
 ## Recent Projects :rocket:	
