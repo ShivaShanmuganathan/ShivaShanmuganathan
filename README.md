@@ -9,7 +9,6 @@ I am a New Graduate dabbling with Web3
 
 #### Reach out to me on! :mailbox: 
 
-
 [![Twitter Badge](https://img.shields.io/badge/-@SHIVA-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shanshiva1)](https://twitter.com/shanshiva1) 
 [![Linkedin Badge](https://img.shields.io/badge/-SHIVA-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-shanmuganathan/) 
 
