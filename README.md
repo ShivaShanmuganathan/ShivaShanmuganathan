@@ -2,7 +2,7 @@
 
 # Hey! I'm [Shiva](https://shiva-blockchain-portfolio.netlify.app/)👋
 
-I am a New Graduate dabbling with Web3
+New Graduate Learning & Building Full Stack Decentralized Applications
 <br>
 
 #### Check Out My [Portfolio](https://shiva-blockchain-portfolio.netlify.app/)
