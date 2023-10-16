@@ -28,7 +28,7 @@ New Graduate Learning & Building Full Stack Decentralized Applications
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShanmuganathan&hide=jupyter%20notebook,html,css&layout=compact&theme=gotham)](https://github.com/ShivaShanmuganathan/github-readme-stats)
 
 #### WORK :briefcase:	
-- :paperclip: [My Resume](https://drive.google.com/file/d/1kknmh6WKoV3OVh5YC67S7QWvqA4jd3Oj/view?usp=sharing)
+- :paperclip: [My Resume](https://1drv.ms/b/s!AiNNOTI2SsM6mEGCtW0pTBHFcdJe?e=sAlAh2)
 - :email: shanshiva@outlook.com
 
 ## Recent Projects :rocket:	
