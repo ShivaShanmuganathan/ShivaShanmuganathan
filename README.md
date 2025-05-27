@@ -1,108 +1,81 @@
+# Hi, I'm Shiva 👋  
+Solidity Engineer | 3+ Years | 250+ Contracts | $100M+ TVL | Open to Full-Time & Contract Roles
 
+I’m a smart contract engineer focused on building secure, upgradeable, and scalable EVM protocols. Over the last 3 years, I’ve led Solidity development for onchain games and DeFi systems, deploying 250+ contracts and working on projects that processed over **$100M in total value** and **900K+ transactions**.
 
-# Hey! I'm [Shiva](https://shiva-blockchain-portfolio.netlify.app/)👋
+---
+## 📬 Let's Connect
+### 🌐 [Portfolio Website](https://slinga-web.vercel.app) || 📝 [Resume](https://1drv.ms/b/c/3ac34a3632394d23/EaUzQSRXar9FiX_6sM5fVDgBhRVFc2wAa7AfBuQY6Q5NJQ?e=sL8BLq) || 💼 [LinkedIn](https://www.linkedin.com/in/ShivaShanmuganathan) || 🐦 [Twitter](https://twitter.com/shanshiva1) || 🚀 [Telegram](https://t.me/shanshiva4) || ✉️ shanshiva@outlook.com  
 
-New Graduate Learning & Building Full Stack Decentralized Applications
-<br>
+---
 
-#### Check Out My [Portfolio](https://shiva-blockchain-portfolio.netlify.app/)
+## 🏗️ Work Experience
 
-#### Reach out to me on! :mailbox: 
+### 🦄 Lead Solidity Engineer — Crypto Unicorns & Neo Olympus  
+*Laguna Games | 2022–2025*
 
-[![Twitter Badge](https://img.shields.io/badge/-@SHIVA-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shanshiva1)](https://twitter.com/shanshiva1) 
-[![Linkedin Badge](https://img.shields.io/badge/-SHIVA-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-shanmuganathan/) 
+- Deployed 250+ smart contracts using **ERC-2535 Diamond Standard**  
+- Led protocol development on **Crypto Unicorns** (50K+ DAU, $100M+ TVL)  
+- Built **Neo Olympus** end to end — a DN404 + Uniswap V3-powered protocol  
+- Designed and maintained core game mechanics, NFT infrastructure, staking logic, and cross-chain infra  
+- Migrated 200+ contracts from **Polygon to Arbitrum Xai**, with 90%+ user retention
 
+👉 See my previous engineering work on GitHub: [**@ShivaLaguna**](https://github.com/ShivaLaguna)
 
-#### Top Technologies :zap:
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=F0DB4F)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=61DBFB)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=61DBFB)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=61DBFB)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
+## 💎 Featured Project – Diamond NFT Mini Game
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShanmuganathan&hide=jupyter%20notebook,html,css&layout=compact&theme=gotham)](https://github.com/ShivaShanmuganathan/github-readme-stats)
+### 🎮 [Live Demo](https://diamond-dapp.vercel.app/)  
+Dynamic NFT battle game using **ERC-2535 Diamond architecture**  
 
-#### WORK :briefcase:	
-- :paperclip: [My Resume](https://1drv.ms/b/s!AiNNOTI2SsM6mEGCtW0pTBHFcdJe?e=sAlAh2)
-- :email: shanshiva@outlook.com
+- 🔧 [Frontend Code](https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game/tree/main/frontend)  
+- 🔧 [Backend Code](https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game/tree/main/backend)
 
-## Recent Projects :rocket:	
+---
 
-### 1. Fullstack Dynamic NFT Mini Game🎮💎[Using Diamond Standard](https://diamond-dapp.vercel.app/)
+## 🛠️ Selected Projects
 
-### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game/tree/main/frontend)
-### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game/tree/main/backend)
+<details>
+<summary><strong>Click to expand</strong></summary>
 
-![diamond-project](https://user-images.githubusercontent.com/30176438/168122891-5215481e-670c-4bd5-be10-1955768121f4.JPG)
+### 🎟️ [NFT Rental Marketplace](https://nft-rental-marketplace.netlify.app/)  
+- Collateral-free rental system for NFTs  
+🔧 [Frontend](https://github.com/ShivaShanmuganathan/rental-marketplace-frontend) | [Backend](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
 
+### 🏛️ [DAO DApp – EIP-1167](http://fullstack-dao-dapp.vercel.app/)  
+🔗 [GitHub](https://github.com/ShivaShanmuganathan/fullstack-dao-dapp)
 
-### 2. Collateral Free [NFT Rental Marketplace](https://nft-rental-marketplace.netlify.app/)
+### 🎫 [NFT Ticketing System](https://nft-ticketing-system.netlify.app/)  
+🔧 [Frontend](https://github.com/ShivaShanmuganathan/NFT-Ticketing-System-Frontend) | [Backend](https://github.com/ShivaShanmuganathan/NFT-Ticketing-System)
 
-### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/rental-marketplace-frontend)
-### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace)
+### 💰 [Yield Farm DeFi Dapp](https://yieldfarm.netlify.app/)  
+🔗 [GitHub](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm)
 
-![rental-marketplace-screenshot](https://user-images.githubusercontent.com/30176438/160332907-c7f22001-f807-46a3-b999-be4a98895a12.png)
+### 🔁 [Dutch Auction ERC20 Marketplace](https://github.com/ShivaShanmuganathan/DutchAuction)
 
+### ⚡ [Aave Flashloan Bot](https://github.com/ShivaShanmuganathan/aave-flashloan)
 
-### 3. Full Stack [DAO Dapp EIP-1167: Minimal Proxy](http://fullstack-dao-dapp.vercel.app/)
+### 🧱 [Wave Portal](https://waveportal-baseline-student.shivashanmugana.repl.co/)  
+🔗 [GitHub](https://github.com/ShivaShanmuganathan/wave-portal)
 
-### Instructions & Full Stack Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/fullstack-dao-dapp)
+### 🐍 [PyChain – Python Blockchain](https://github.com/ShivaShanmuganathan/PyChain)
 
-![DAO](https://user-images.githubusercontent.com/30176438/160229135-18c529b9-ff18-49db-ba89-a5f8c6772001.png)
+### 🔐 [PyCryption – File Encryptor](https://github.com/ShivaShanmuganathan/PyCryption)
 
-### 4. Yield Farm [DeFi Dapp](https://yieldfarm.netlify.app/)
+</details>
 
-### Instructions & Full Stack Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm)
+---
 
-![defi_dapp](https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm/raw/main/yield2.jpg)
+## 🧰 Tech Stack
 
+**Smart Contracts:** Solidity (ERC-20, ERC-721, ERC-2535, DN404), Hardhat, Foundry  
+**Frontend:** React, Next.js, Ethers.js  
+**Backend:** Node.js, Express  
+**Cross-Chain Infra:** Arbitrum, Xai, LayerZero  
+**Security:** Fuzzing, Invariant Testing, Proxy Patterns  
+**Also Actively Learning:** Rust & Sui Move
 
-### 5. Dutch Auction ERC20 Marketplace [Reverse Auction Contract](https://github.com/ShivaShanmuganathan/DutchAuction)
+---
 
-### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/DutchAuction)
-
-![auction](https://user-images.githubusercontent.com/30176438/160228951-94cc671a-f032-4e96-990d-f0b80e2e8007.png)
-
-### 6. Full Stack [NFT Ticketing System](https://nft-ticketing-system.netlify.app/)
-
-### Instructions & Frontend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Ticketing-System-Frontend)
-### Instructions & Backend Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/NFT-Ticketing-System)
-
-![NFT Ticket](https://user-images.githubusercontent.com/30176438/160229210-b6cb991f-d242-4607-82b9-3be3ef5b9580.png)
-
-### 7. Aave Flashloan [FlashLoan](https://github.com/ShivaShanmuganathan/aave-flashloan)
-
-### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/aave-flashloan)
-
-![flashloan](https://shiva-blockchain-portfolio.netlify.app/images/flashloan.gif)
-
-### 8. Check Out 👋Wave Portal At [WAVE PORTAL](https://waveportal-baseline-student.shivashanmugana.repl.co/)
-
-### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/wave-portal)
-
-![image](https://user-images.githubusercontent.com/30176438/138548209-975b149e-ae52-4fb7-89d4-7770bf55508f.png)
-
-### 9. Check Out 🐍PyChain At [GitHub](https://github.com/ShivaShanmuganathan/PyChain)
-### PyChain is a Python Based Blockchain that I built to better understand how a Blockchain works.
-### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/PyChain)
-<br>
-
-
-<img src="https://user-images.githubusercontent.com/30176438/132985082-3256a981-01d6-4149-a154-a131ca27bde1.png" width="550" height="300">
-
-
-<img src="https://user-images.githubusercontent.com/30176438/132985076-b6956ee6-4834-4a16-bc6e-d926af51bfa6.png" width="650" height="400">
-
-<img src="https://user-images.githubusercontent.com/30176438/132985081-43ab9138-c8b1-49ab-a82b-29c70d2e9c19.png" width="750" height="400">
-
-### 10. Check Out 🔐PyCryption At [GitHub](https://github.com/ShivaShanmuganathan/PyCryption)
-### PyCryption is a Dockerized Python Encryptor that I built to preform Encryption & Decryption on files.
-### Instructions & Code Here -> [GitHub Link](https://github.com/ShivaShanmuganathan/PyCryption)
-
-![image](https://user-images.githubusercontent.com/30176438/132206323-072bfead-e86c-4acc-8803-b8ee904c33e8.png)
-
+> Open to full-time Solidity engineering roles, protocol consulting, and smart contract auditing engagements.
