@@ -5,7 +5,7 @@ I’m a smart contract engineer focused on building secure, upgradeable, and sca
 
 ---
 ## 📬 Let's Connect
-### 🌐 [Portfolio Website](https://slinga-web.vercel.app) || 📝 [Resume](https://1drv.ms/b/c/3ac34a3632394d23/EaUzQSRXar9FiX_6sM5fVDgBhRVFc2wAa7AfBuQY6Q5NJQ?e=sL8BLq) || 💼 [LinkedIn](https://www.linkedin.com/in/ShivaShanmuganathan) || 🐦 [Twitter](https://twitter.com/shanshiva1) || 🚀 [Telegram](https://t.me/shanshiva4) || ✉️ shanshiva@outlook.com  
+### 🌐 [Portfolio Website](https://www.shanshiva.com/) || 📝 [Resume](https://1drv.ms/b/c/3ac34a3632394d23/EaUzQSRXar9FiX_6sM5fVDgBhRVFc2wAa7AfBuQY6Q5NJQ?e=sL8BLq) || 💼 [LinkedIn](https://www.linkedin.com/in/ShivaShanmuganathan) || 🐦 [Twitter](https://twitter.com/shanshiva1) || 🚀 [Telegram](https://t.me/shanshiva4) || ✉️ shanshiva@outlook.com  
 
 ---
 
